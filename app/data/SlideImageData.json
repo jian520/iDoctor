@@ -1,0 +1,15 @@
+{
+  "ads": [
+    {
+      "imgsrc": "slider1",
+      "title": "AAA",
+      "url": ""
+    },
+    {
+      "imgsrc": "slider2",
+      "title": "BBB",
+      "url": ""
+    }
+  ]
+}
+

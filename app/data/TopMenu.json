@@ -1,0 +1,37 @@
+{
+  "data": [
+     {
+      "title" : "醫美",
+      "imageName" : "ic_medi_a"
+    },
+    {
+      "title" : "檢查",
+      "imageName" : "ic_medi_b"
+    },
+    {
+      "title" : "脊醫",
+      "imageName" : "ic_medi_c"
+    },
+    {
+      "title" : "疫苗",
+      "imageName" : "ic_medi_d"
+    },
+    {
+      "title" : "預約",
+      "imageName" : "ic_medi_e"
+    },
+    {
+      "title" : "牙醫",
+      "imageName" : "ic_medi_f"
+    },
+    {
+      "title" : "專科",
+      "imageName" : "ic_medi_g"
+    },
+    {
+      "title" : "婦科",
+      "imageName" : "ic_medi_h"
+    }
+
+  ]
+}
