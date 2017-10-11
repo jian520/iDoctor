@@ -99,8 +99,8 @@ export const Tabs = TabNavigator(
                     <TabBarItem
                         tintColor={tintColor}
                         focused={focused}
-                        normalImage={require('./images/ic_tabbar_clinic_n.png')}
-                        selectedImage={require('./images/ic_tabbar_clinic_n.png')}
+                        normalImage={require('./images/ic_tabbar_doctor.png')}
+                        selectedImage={require('./images/ic_tabbar_doctor.png')}
                     />
                 ),
             },
@@ -116,8 +116,8 @@ export const Tabs = TabNavigator(
                     <TabBarItem
                         tintColor={tintColor}
                         focused={focused}
-                        normalImage={require('./images/ic_tabbar_clinic_n.png')}
-                        selectedImage={require('./images/ic_tabbar_clinic_n.png')}
+                        normalImage={require('./images/ic_tabbar_home.png')}
+                        selectedImage={require('./images/ic_tabbar_home.png')}
                     />
                 ),
             },
@@ -148,8 +148,8 @@ export const Tabs = TabNavigator(
                     <TabBarItem
                         tintColor={tintColor}
                         focused={focused}
-                        normalImage={require('./images/ic_tabbar_clinic_n.png')}
-                        selectedImage={require('./images/ic_tabbar_clinic_n.png')}
+                        normalImage={require('./images/ic_tabbar_me_normal.png')}
+                        selectedImage={require('./images/ic_tabbar_me_normal.png')}
                     />
                 ),
             },

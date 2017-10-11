@@ -47,9 +47,9 @@ var dataRequest = new DataRequest()
 
 
 export default class IndexPage extends Component {
-    static navigationOptions = {
-        header:  true,
-    };
+    // static navigationOptions = {
+    //     header:  true,
+    // };
 
 
     constructor(props) {

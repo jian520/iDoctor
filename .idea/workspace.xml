@@ -2,231 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cc100a6-202e-4634-908b-c9b535e8aa45" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/iDoctor/Images.xcassets/LaunchImage.launchimage/640.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/iDoctor/Images.xcassets/LaunchImage.launchimage/750.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/src/main/java/com/idoctor/MainActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/app/src/main/java/com/idoctor/MainApplication.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/iDoctor.app/Base.lproj/LaunchScreen.nib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ios/build/Logs/Build/909DD462-1E6A-4CCE-8337-3785650A41D2.xcactivitylog" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/acorn-globals/node_modules/.bin/acorn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-core/node_modules/.bin/babylon" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-generator/node_modules/.bin/jsesc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-preset-es2015-node/node_modules/.bin/semver" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-register/node_modules/.bin/mkdirp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-template/node_modules/.bin/babylon" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-traverse/node_modules/.bin/babylon" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/create-react-class/node_modules/.bin/loose-envify" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cross-spawn/node_modules/.bin/which" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/aes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/cipher-core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/crypto-js.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/docs/QuickStartGuide.wiki" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/enc-base64.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/enc-hex.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/enc-latin1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/enc-utf16.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/enc-utf8.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/evpkdf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/format-hex.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/format-openssl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/hmac-md5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/hmac-ripemd160.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/hmac-sha1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/hmac-sha224.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/hmac-sha256.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/hmac-sha3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/hmac-sha384.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/hmac-sha512.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/hmac.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/lib-typedarrays.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/md5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/mode-cfb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/mode-ctr-gladman.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/mode-ctr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/mode-ecb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/mode-ofb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/pad-ansix923.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/pad-iso10126.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/pad-iso97971.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/pad-nopadding.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/pad-pkcs7.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/pad-zeropadding.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/pbkdf2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/rabbit-legacy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/rabbit.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/rc4.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/ripemd160.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/sha1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/sha224.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/sha256.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/sha3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/sha384.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/sha512.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/tripledes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/crypto-js/x64-core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/envinfo/node_modules/.bin/which" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/events/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/events/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/events/.zuul.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/events/History.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/events/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/events/Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/events/events.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/events/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/events/tests/add-listeners.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/events/tests/check-listener-leaks.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/events/tests/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/events/tests/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/events/tests/legacy-compat.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/events/tests/listener-count.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/events/tests/listeners-side-effects.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/events/tests/listeners.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/events/tests/max-listeners.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/events/tests/modify-in-emit.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/events/tests/num-args.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/events/tests/once.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/events/tests/remove-all-listeners.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/events/tests/remove-listeners.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/events/tests/set-max-listeners-side-effects.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/events/tests/subclass.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/execa/node_modules/cross-spawn/node_modules/.bin/which" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fbjs-scripts/node_modules/.bin/semver" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fbjs/node_modules/.bin/loose-envify" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/node_modules/.bin/mkdirp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/node_modules/.bin/rimraf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/http-signature/node_modules/.bin/sshpk-conv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/http-signature/node_modules/.bin/sshpk-sign" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/http-signature/node_modules/.bin/sshpk-verify" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/invariant/node_modules/.bin/loose-envify" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/istanbul-api/node_modules/.bin/js-yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/istanbul-api/node_modules/.bin/mkdirp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/istanbul-lib-instrument/node_modules/.bin/babylon" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/istanbul-lib-instrument/node_modules/.bin/semver" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/istanbul-lib-report/node_modules/.bin/mkdirp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/istanbul-lib-source-maps/node_modules/.bin/mkdirp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/istanbul-lib-source-maps/node_modules/.bin/rimraf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/istanbul-reports/node_modules/.bin/handlebars" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jest-cli/node_modules/.bin/jest-runtime" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jest-cli/node_modules/.bin/which" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jest-runner/node_modules/.bin/jest-runtime" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jest-snapshot/node_modules/.bin/mkdirp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jest-util/node_modules/.bin/mkdirp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/node_modules/.bin/esparse" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/node_modules/.bin/esvalidate" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jsdom/node_modules/.bin/acorn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jsdom/node_modules/.bin/escodegen" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jsdom/node_modules/.bin/esgenerate" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/metro-bundler/node_modules/.bin/babylon" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/metro-bundler/node_modules/.bin/image-size" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/metro-bundler/node_modules/.bin/json5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/metro-bundler/node_modules/.bin/mkdirp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/metro-bundler/node_modules/.bin/rimraf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/metro-bundler/node_modules/.bin/uglifyjs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/metro-bundler/node_modules/fbjs/node_modules/.bin/loose-envify" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/metro-bundler/node_modules/jest-haste-map/node_modules/.bin/sane" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/node-notifier/node_modules/.bin/semver" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/node-notifier/node_modules/.bin/which" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/node-pre-gyp/node_modules/.bin/mkdirp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/node-pre-gyp/node_modules/.bin/nopt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/node-pre-gyp/node_modules/.bin/rc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/node-pre-gyp/node_modules/.bin/rimraf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/node-pre-gyp/node_modules/.bin/semver" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/node-pre-gyp/node_modules/http-signature/node_modules/.bin/sshpk-conv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/node-pre-gyp/node_modules/http-signature/node_modules/.bin/sshpk-sign" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/node-pre-gyp/node_modules/http-signature/node_modules/.bin/sshpk-verify" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/node-pre-gyp/node_modules/request/node_modules/.bin/uuid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/normalize-package-data/node_modules/.bin/semver" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/prop-types/node_modules/.bin/loose-envify" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native-img-cache/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native-img-cache/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native-img-cache/build/index.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native-img-cache/build/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native-img-cache/build/index.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native-img-cache/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native-splash-screen/android/src/main/java/org/devio/rn/splashscreen/SplashScreen.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native-splash-screen/android/src/main/java/org/devio/rn/splashscreen/SplashScreenModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native-splash-screen/android/src/main/java/org/devio/rn/splashscreen/SplashScreenReactPackage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native-sww-activity-indicator/.idea/jsLibraryMappings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native-sww-activity-indicator/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native-sww-activity-indicator/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native-sww-activity-indicator/.idea/react-native-sww-activity-indicator.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native-sww-activity-indicator/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native-sww-activity-indicator/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native-sww-activity-indicator/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native-sww-activity-indicator/SActivityIndicator.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native-sww-activity-indicator/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native-sww-activity-indicator/lib/SActivityIndicator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native-sww-activity-indicator/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/android/com/facebook/react/react-native/0.48.4/react-native-0.48.4-javadoc.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/android/com/facebook/react/react-native/0.48.4/react-native-0.48.4-javadoc.jar.md5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/android/com/facebook/react/react-native/0.48.4/react-native-0.48.4-javadoc.jar.sha1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/android/com/facebook/react/react-native/0.48.4/react-native-0.48.4-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/android/com/facebook/react/react-native/0.48.4/react-native-0.48.4-sources.jar.md5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/android/com/facebook/react/react-native/0.48.4/react-native-0.48.4-sources.jar.sha1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/android/com/facebook/react/react-native/0.48.4/react-native-0.48.4.aar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/android/com/facebook/react/react-native/0.48.4/react-native-0.48.4.aar.md5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/android/com/facebook/react/react-native/0.48.4/react-native-0.48.4.aar.sha1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/android/com/facebook/react/react-native/0.48.4/react-native-0.48.4.pom" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/android/com/facebook/react/react-native/0.48.4/react-native-0.48.4.pom.md5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/android/com/facebook/react/react-native/0.48.4/react-native-0.48.4.pom.sha1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/.bin/babylon" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/.bin/envinfo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/.bin/errno" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/.bin/json5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/.bin/mime" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/.bin/mkdirp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/.bin/rimraf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/.bin/semver" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/fbjs/node_modules/.bin/loose-envify" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/jest-haste-map/node_modules/.bin/sane" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/node_modules/jest-haste-map/node_modules/sane/node_modules/.bin/watch" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react/node_modules/.bin/loose-envify" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/regexpu-core/node_modules/.bin/regjsparser" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/request/node_modules/.bin/uuid" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sane/node_modules/.bin/watch" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar-pack/node_modules/.bin/rimraf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/win-release/node_modules/.bin/semver" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/worker-farm/node_modules/.bin/errno" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/xcode/node_modules/.bin/pegjs" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTActionSheet.build/Debug-iphonesimulator/RCTActionSheet.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTActionSheet.build/Debug-iphonesimulator/RCTActionSheet.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTBlob.build/Debug-iphonesimulator/RCTBlob.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTBlob.build/Debug-iphonesimulator/RCTBlob.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTImage.build/Debug-iphonesimulator/RCTImage.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTImage.build/Debug-iphonesimulator/RCTImage.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTLinking.build/Debug-iphonesimulator/RCTLinking.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTLinking.build/Debug-iphonesimulator/RCTLinking.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTSettings.build/Debug-iphonesimulator/RCTSettings.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTSettings.build/Debug-iphonesimulator/RCTSettings.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTText.build/Debug-iphonesimulator/RCTText.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTText.build/Debug-iphonesimulator/RCTText.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTVibration.build/Debug-iphonesimulator/RCTVibration.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTVibration.build/Debug-iphonesimulator/RCTVibration.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/React.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/cxxreact.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/double-conversion.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/double-conversion.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/jschelpers.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/jschelpers.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/third-party.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/React.build/Debug-iphonesimulator/yoga.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/iDoctor.build/Debug-iphonesimulator/iDoctor.build/Objects-normal/x86_64/AppDelegate.o" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/iDoctor.build/Debug-iphonesimulator/iDoctor.build/Objects-normal/x86_64/AppDelegate.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/iDoctor.build/Debug-iphonesimulator/iDoctor.build/dgph" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/iDoctor.build/Debug-iphonesimulator/iDoctor.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/iDoctor.app.dSYM/Contents/Resources/DWARF/iDoctor" afterPath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/iDoctor.app.dSYM/Contents/Resources/DWARF/iDoctor" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/iDoctor.app/Assets.car" afterPath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/iDoctor.app/Assets.car" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/iDoctor.app/Info.plist" afterPath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/iDoctor.app/Info.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/iDoctor.app/iDoctor" afterPath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/iDoctor.app/iDoctor" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Index/DataStore/v5/units/AppDelegate.o-2KJUDZUR69X9" afterPath="$PROJECT_DIR$/ios/build/Index/DataStore/v5/units/AppDelegate.o-2KJUDZUR69X9" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Logs/Build/Cache.db" afterPath="$PROJECT_DIR$/ios/build/Logs/Build/Cache.db" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/iDoctor.xcodeproj/project.xcworkspace/xcuserdata/zhangjian.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/ios/iDoctor.xcodeproj/project.xcworkspace/xcuserdata/zhangjian.xcuserdatad/UserInterfaceState.xcuserstate" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/iDoctor.build/Debug-iphonesimulator/iDoctor.build/iDoctor.app.xcent" afterPath="$PROJECT_DIR$/ios/build/Build/Intermediates.noindex/iDoctor.build/Debug-iphonesimulator/iDoctor.build/iDoctor.app.xcent" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/iDoctor.app.dSYM/Contents/Info.plist" afterPath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/iDoctor.app.dSYM/Contents/Info.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/iDoctor.app/_CodeSignature/CodeResources" afterPath="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/iDoctor.app/_CodeSignature/CodeResources" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/build/info.plist" afterPath="$PROJECT_DIR$/ios/build/info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Root.js" afterPath="$PROJECT_DIR$/app/Root.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/page/index/IndexPage.js" afterPath="$PROJECT_DIR$/app/page/index/IndexPage.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/iDoctor.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/ios/iDoctor.xcodeproj/project.pbxproj" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/iDoctor/Images.xcassets/LaunchImage.launchimage/Contents.json" afterPath="$PROJECT_DIR$/ios/iDoctor/Images.xcassets/LaunchImage.launchimage/Contents.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/iDoctor/Info.plist" afterPath="$PROJECT_DIR$/ios/iDoctor/Info.plist" />
@@ -248,9 +27,31 @@
       <file leaf-file-name="WelcomePage.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/page/WelcomePage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
+            <state relative-caret-position="320">
               <caret line="129" column="124" lean-forward="false" selection-start-line="129" selection-start-column="124" selection-end-line="129" selection-end-column="124" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Root.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Root.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="452">
+              <caret line="143" column="32" lean-forward="true" selection-start-line="143" selection-start-column="32" selection-end-line="143" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.ios.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.ios.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="2" selection-end-column="0" />
+              <folding>
+                <element signature="e#159#200#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -258,7 +59,7 @@
       <file leaf-file-name="LoginPage.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/page/LoginPage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4056">
+            <state relative-caret-position="3855">
               <caret line="286" column="10" lean-forward="false" selection-start-line="286" selection-start-column="10" selection-end-line="286" selection-end-column="10" />
               <folding>
                 <element signature="e#15#69#0" expanded="true" />
@@ -271,7 +72,7 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
+            <state relative-caret-position="525">
               <caret line="35" column="27" lean-forward="false" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
               <folding />
             </state>
@@ -281,21 +82,32 @@
       <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package-lock.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
+            <state relative-caret-position="106680">
               <caret line="7112" column="25" lean-forward="false" selection-start-line="7112" selection-start-column="25" selection-end-line="7112" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RegPage.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RegPage.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/page/RegPage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="20" column="50" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="51" />
+            <state relative-caret-position="299">
+              <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
               <folding>
+                <element signature="e#15#58#0" expanded="true" />
                 <element signature="e#551#602#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndexPage.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/page/index/IndexPage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="57" column="29" lean-forward="true" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -303,26 +115,12 @@
       <file leaf-file-name="SwiperImage.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/page/index/SwiperImage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
+            <state relative-caret-position="1410">
               <caret line="109" column="101" lean-forward="false" selection-start-line="109" selection-start-column="34" selection-end-line="109" selection-end-column="101" />
               <folding>
                 <element signature="e#45#83#0" expanded="true" />
               </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="a.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/images/a.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="b.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/images/b.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -371,16 +169,16 @@
         <option value="$PROJECT_DIR$/package-lock.json" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/package_.json" />
-        <option value="$PROJECT_DIR$/app/Root.js" />
         <option value="$PROJECT_DIR$/app/page/ClinicPage.js" />
         <option value="$PROJECT_DIR$/app/page/DoctorPage.js" />
         <option value="$PROJECT_DIR$/app/page/ClinicDetailPage.js" />
         <option value="$PROJECT_DIR$/app/page/DoctorDetailPage.js" />
-        <option value="$PROJECT_DIR$/app/page/index/IndexPage.js" />
         <option value="$PROJECT_DIR$/app/page/index/SwiperImage.js" />
         <option value="$PROJECT_DIR$/app/page/WelcomePage.js" />
         <option value="$PROJECT_DIR$/app/page/LoginPage.js" />
         <option value="$PROJECT_DIR$/app/page/RegPage.js" />
+        <option value="$PROJECT_DIR$/app/page/index/IndexPage.js" />
+        <option value="$PROJECT_DIR$/app/Root.js" />
       </list>
     </option>
   </component>
@@ -388,18 +186,27 @@
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
     <package-json value="$PROJECT_DIR$/package.json" />
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/ios/build/Build/Products/Debug-iphonesimulator/iDoctor.app/assets/node_modules" />
     <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/release_ios/assets/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="360" />
-    <option name="y" value="261" />
-    <option name="width" value="1260" />
-    <option name="height" value="669" />
+    <option name="x" value="353" />
+    <option name="y" value="69" />
+    <option name="width" value="1570" />
+    <option name="height" value="978" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -419,8 +226,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -432,6 +237,12 @@
               <item name="iDoctor" type="b2602c69:ProjectViewProjectNode" />
               <item name="iDoctor" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iDoctor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iDoctor" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="iDoctor" type="b2602c69:ProjectViewProjectNode" />
@@ -450,6 +261,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -493,25 +306,27 @@
       <workItem from="1507174511932" duration="173000" />
       <workItem from="1507179732729" duration="1652000" />
       <workItem from="1507185401243" duration="6509000" />
+      <workItem from="1507681220923" duration="546000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12157000" />
+    <option name="totallyTimeSpent" value="12703000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="360" y="261" width="1260" height="669" extended-state="0" />
+    <frame x="353" y="69" width="1570" height="978" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20063694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -624,15 +439,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
           <caret line="29" column="47" lean-forward="true" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -640,21 +446,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Root.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="150" column="80" lean-forward="false" selection-start-line="150" selection-start-column="80" selection-end-line="150" selection-end-column="80" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#17#71#0" expanded="false" />
-            <element signature="e#278#314#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -662,7 +453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -670,7 +460,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -678,9 +467,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -696,7 +482,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-188">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -712,9 +497,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-641">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -722,17 +504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-130">
           <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.ios.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#159#200#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -760,7 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -798,7 +568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -806,7 +575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="38" column="83" lean-forward="false" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="83" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -814,15 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="22" column="2" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/page/index/IndexPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -863,7 +622,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/page/index/SwiperImage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
+        <state relative-caret-position="1410">
           <caret line="109" column="101" lean-forward="false" selection-start-line="109" selection-start-column="34" selection-end-line="109" selection-end-column="101" />
           <folding>
             <element signature="e#45#83#0" expanded="true" />
@@ -871,17 +630,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/page/WelcomePage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="129" column="124" lean-forward="false" selection-start-line="129" selection-start-column="124" selection-end-line="129" selection-end-column="124" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
+        <state relative-caret-position="525">
           <caret line="35" column="27" lean-forward="false" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
           <folding />
         </state>
@@ -889,7 +640,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
+        <state relative-caret-position="106680">
           <caret line="7112" column="25" lean-forward="false" selection-start-line="7112" selection-start-column="25" selection-end-line="7112" selection-end-column="25" />
           <folding />
         </state>
@@ -899,16 +650,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#113#163#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/page/LoginPage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4056">
+        <state relative-caret-position="3855">
           <caret line="286" column="10" lean-forward="false" selection-start-line="286" selection-start-column="10" selection-end-line="286" selection-end-column="10" />
           <folding>
             <element signature="e#15#69#0" expanded="true" />
@@ -919,10 +666,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/page/RegPage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="20" column="50" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="51" />
+        <state relative-caret-position="299">
+          <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
           <folding>
+            <element signature="e#15#58#0" expanded="true" />
             <element signature="e#551#602#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/page/index/IndexPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="57" column="29" lean-forward="true" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/page/WelcomePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="129" column="124" lean-forward="false" selection-start-line="129" selection-start-column="124" selection-end-line="129" selection-end-column="124" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Root.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="143" column="32" lean-forward="true" selection-start-line="143" selection-start-column="32" selection-end-line="143" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.ios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#159#200#0" expanded="true" />
           </folding>
         </state>
       </provider>
