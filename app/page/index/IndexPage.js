@@ -50,7 +50,10 @@ export default class IndexPage extends Component {
     // static navigationOptions = {
     //     header:  true,
     // };
-
+    // static navigationOptions = ({ navigation }) => ({
+    //     title: '首页',
+    //      header:  true,
+    // })
 
     constructor(props) {
         super(props);

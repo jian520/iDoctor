@@ -32,6 +32,10 @@ import {connect} from 'react-redux';
 import {userLogout} from '../actions/userActions';
 class MyPage extends Component {
 
+    // static navigationOptions = ({ navigation }) => ({
+    //     title: '我',
+    //     //   headerStyle: { backgroundColor: 'white' },
+    // })
     constructor(props) {
         super(props);
 

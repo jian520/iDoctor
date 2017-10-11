@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cc100a6-202e-4634-908b-c9b535e8aa45" name="Default" comment="" />
+    <list default="true" id="4cc100a6-202e-4634-908b-c9b535e8aa45" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release_ios/assets/app/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release_ios/assets/app/images/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release_ios/assets/app/images/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release_ios/assets/app/images/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release_ios/assets/app/images/a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release_ios/assets/app/images/b.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/iDoctor.xcodeproj/project.xcworkspace/xcuserdata/zhangjian.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/ios/iDoctor.xcodeproj/project.xcworkspace/xcuserdata/zhangjian.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/release_ios/assets/app/images/doctor_no_image_g.jpg" afterPath="$PROJECT_DIR$/release_ios/assets/app/images/doctor_no_image_g.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/release_ios/assets/app/images/ic_arrow_back_white_36pt.png" afterPath="$PROJECT_DIR$/release_ios/assets/app/images/ic_arrow_back_white_36pt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/release_ios/assets/app/images/ic_arrow_back_white_36pt@2x.png" afterPath="$PROJECT_DIR$/release_ios/assets/app/images/ic_arrow_back_white_36pt@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/release_ios/assets/app/images/ic_arrow_back_white_36pt@3x.png" afterPath="$PROJECT_DIR$/release_ios/assets/app/images/ic_arrow_back_white_36pt@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/release_ios/assets/app/images/ic_form_city.png" afterPath="$PROJECT_DIR$/release_ios/assets/app/images/ic_form_city.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/release_ios/assets/app/images/ic_more_vert_white_48pt.png" afterPath="$PROJECT_DIR$/release_ios/assets/app/images/ic_more_vert_white_48pt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/release_ios/assets/app/images/ic_more_vert_white_48pt@2x.png" afterPath="$PROJECT_DIR$/release_ios/assets/app/images/ic_more_vert_white_48pt@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/release_ios/assets/app/images/ic_more_vert_white_48pt@3x.png" afterPath="$PROJECT_DIR$/release_ios/assets/app/images/ic_more_vert_white_48pt@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/release_ios/assets/app/images/ic_tabbar_clinic_n.png" afterPath="$PROJECT_DIR$/release_ios/assets/app/images/ic_tabbar_clinic_n.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/release_ios/assets/app/images/ic_tabbar_doctor.png" afterPath="$PROJECT_DIR$/release_ios/assets/app/images/ic_tabbar_doctor.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/release_ios/assets/app/images/ic_tabbar_home.png" afterPath="$PROJECT_DIR$/release_ios/assets/app/images/ic_tabbar_home.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/release_ios/assets/app/images/ic_tabbar_me_normal.png" afterPath="$PROJECT_DIR$/release_ios/assets/app/images/ic_tabbar_me_normal.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/release_ios/assets/app/images/ic_tiaozhuan.png" afterPath="$PROJECT_DIR$/release_ios/assets/app/images/ic_tiaozhuan.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/release_ios/assets/app/images/ic_tiaozhuan@2x.png" afterPath="$PROJECT_DIR$/release_ios/assets/app/images/ic_tiaozhuan@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/release_ios/assets/app/images/ic_tiaozhuan@3x.png" afterPath="$PROJECT_DIR$/release_ios/assets/app/images/ic_tiaozhuan@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/page/MyPage.js" afterPath="$PROJECT_DIR$/app/page/MyPage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/page/index/IndexPage.js" afterPath="$PROJECT_DIR$/app/page/index/IndexPage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/iDoctor.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/ios/iDoctor.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/iDoctor.xcodeproj/xcshareddata/xcschemes/iDoctor.xcscheme" afterPath="$PROJECT_DIR$/ios/iDoctor.xcodeproj/xcshareddata/xcschemes/iDoctor.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/release_ios/main.jsbundle" afterPath="$PROJECT_DIR$/release_ios/main.jsbundle" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -27,14 +56,24 @@
       <file leaf-file-name="Root.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Root.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="143" column="32" lean-forward="false" selection-start-line="143" selection-start-column="32" selection-end-line="143" selection-end-column="32" />
+            <state relative-caret-position="709">
+              <caret line="144" column="0" lean-forward="true" selection-start-line="144" selection-start-column="0" selection-end-line="146" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.ios.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HomePage.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/page/HomePage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1679">
+              <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.ios.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.ios.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -42,6 +81,26 @@
               <folding>
                 <element signature="e#159#200#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DoctorPage.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/page/DoctorPage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3417">
+              <caret line="456" column="26" lean-forward="false" selection-start-line="456" selection-start-column="26" selection-end-line="456" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClinicPage.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/page/ClinicPage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="42" column="2" lean-forward="true" selection-start-line="42" selection-start-column="2" selection-end-line="45" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -59,26 +118,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="27" lean-forward="false" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package-lock.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106680">
-              <caret line="7112" column="25" lean-forward="false" selection-start-line="7112" selection-start-column="25" selection-end-line="7112" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RegPage.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/page/RegPage.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -92,32 +131,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IndexPage.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="IndexPage.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/page/index/IndexPage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="57" column="29" lean-forward="false" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
+            <state relative-caret-position="240">
+              <caret line="55" column="9" lean-forward="true" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SwiperImage.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/page/index/SwiperImage.js">
+      <file leaf-file-name="MyPage.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/page/MyPage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1410">
-              <caret line="109" column="101" lean-forward="false" selection-start-line="109" selection-start-column="34" selection-end-line="109" selection-end-column="101" />
+            <state relative-caret-position="145">
+              <caret line="38" column="24" lean-forward="true" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
               <folding>
-                <element signature="e#45#83#0" expanded="true" />
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="doctor_no_image_g.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/images/doctor_no_image_g.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -167,8 +199,9 @@
         <option value="$PROJECT_DIR$/app/page/WelcomePage.js" />
         <option value="$PROJECT_DIR$/app/page/LoginPage.js" />
         <option value="$PROJECT_DIR$/app/page/RegPage.js" />
-        <option value="$PROJECT_DIR$/app/page/index/IndexPage.js" />
         <option value="$PROJECT_DIR$/app/Root.js" />
+        <option value="$PROJECT_DIR$/app/page/MyPage.js" />
+        <option value="$PROJECT_DIR$/app/page/index/IndexPage.js" />
       </list>
     </option>
   </component>
@@ -192,9 +225,9 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
     <handled-path value="$PROJECT_DIR$/release_ios/assets/node_modules" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1214" />
-    <option name="y" value="457" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="236" />
+    <option name="y" value="77" />
     <option name="width" value="1570" />
     <option name="height" value="978" />
   </component>
@@ -296,15 +329,15 @@
       <workItem from="1507174511932" duration="173000" />
       <workItem from="1507179732729" duration="1652000" />
       <workItem from="1507185401243" duration="6509000" />
-      <workItem from="1507681220923" duration="639000" />
+      <workItem from="1507681220923" duration="1303000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12796000" />
+    <option name="totallyTimeSpent" value="13460000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1214" y="457" width="1570" height="978" extended-state="0" />
+    <frame x="236" y="77" width="1570" height="978" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20063694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -337,13 +370,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.ios.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -443,6 +469,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -507,40 +534,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/page/DoctorPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="456" column="26" lean-forward="false" selection-start-line="456" selection-start-column="26" selection-end-line="456" selection-end-column="26" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/page/DoctorDetailPage.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/page/HomePage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1937">
-          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-          <folding>
-            <element signature="e#1#44#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/page/ClinicPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="231" column="14" lean-forward="false" selection-start-line="231" selection-start-column="4" selection-end-line="232" selection-end-column="0" />
-          <folding>
-            <element signature="e#55#98#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -572,6 +570,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="22" column="2" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="25" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -665,14 +664,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/page/index/IndexPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="57" column="29" lean-forward="false" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -689,14 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Root.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="143" column="32" lean-forward="false" selection-start-line="143" selection-start-column="32" selection-end-line="143" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.ios.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -704,6 +687,56 @@
           <folding>
             <element signature="e#159#200#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/page/DoctorPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3417">
+          <caret line="456" column="26" lean-forward="false" selection-start-line="456" selection-start-column="26" selection-end-line="456" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/page/HomePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1679">
+          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Root.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="709">
+          <caret line="144" column="0" lean-forward="true" selection-start-line="144" selection-start-column="0" selection-end-line="146" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/page/ClinicPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="42" column="2" lean-forward="true" selection-start-line="42" selection-start-column="2" selection-end-line="45" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/page/MyPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="38" column="24" lean-forward="true" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/page/index/IndexPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="55" column="9" lean-forward="true" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
