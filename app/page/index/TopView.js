@@ -86,17 +86,7 @@ export default class TopView extends Component {
     }
     pushToDoctor(rowdata) {
 
-
-        this.props.navigator.push({
-            title: '',
-            component: DoctorListPage,
-            params: {
-                item: rowdata,
-                parentComponent: this,
-                ...this.props
-            },
-        });
-
+ 
     }
 
 
