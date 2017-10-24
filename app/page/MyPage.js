@@ -173,9 +173,9 @@ class MyPage extends Component {
                     {this.getItem('', require('../images/ic_form_city.png'), 'Privacy & Terms')}
                     <View style={[{marginBottom: 60}]}/>
 
-                    <View style={GlobalStyles.line}/>
-                    {this.getItem('Alipay', require('../images/ic_form_city.png'), 'Alipay')}
-                    <View style={[{marginBottom: 60}]}/>
+                    {/*<View style={GlobalStyles.line}/>*/}
+                    {/*{this.getItem('Alipay', require('../images/ic_form_city.png'), 'Alipay')}*/}
+                    {/*<View style={[{marginBottom: 60}]}/>*/}
 
 
                 </ScrollView>

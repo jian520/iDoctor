@@ -84,7 +84,10 @@ export default class TopView extends Component {
             </TouchableOpacity>
         );
     }
+
     pushToDoctor(rowdata) {
+        this.props.navigation.navigate('DoctorListPage' )
+
 
  
     }

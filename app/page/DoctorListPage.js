@@ -127,15 +127,6 @@ export default class Doctor extends Component {
 
     render() {
 
-        let navigationBar =
-            <NavigationBar
-                title='醫生'
-                style={{backgroundColor: MPColor.mainColor}}
-                //      rightButton={this.renderMoreButton()}
-                statusBar={{backgroundColor: MPColor.mainColor}}
-                // titleView={this.renderTitleView()}
-                leftButton={ViewUtils.getLeftButton(() => this.props.navigator.pop())}
-            />
 
 
         var content =
@@ -161,7 +152,7 @@ export default class Doctor extends Component {
         if (this.state.isLoading) {
             return (
                 <View style={[GlobalStyles.listView_container, {paddingTop: 0}]}>
-                    {navigationBar}
+
                     <Loading/>
                 </View>
 
@@ -170,7 +161,7 @@ export default class Doctor extends Component {
         } else {
             return (
                 <View style={[GlobalStyles.listView_container, {paddingTop: 0}]}>
-                    {navigationBar}
+
                     {content}
                 </View>
             )
@@ -202,19 +193,8 @@ export default class Doctor extends Component {
 
 
     pushToDetail(rowData) {
-        //    this.props.navigation.navigate('DoctorDetailPage',{ item: rowData} )
 
-
-        this.props.navigator.push({
-            title: 'ddd',
-            component: DoctorDetailPage,
-            params: {
-                item: rowData,
-                parentComponent: this,
-                ...this.props
-            },
-        });
-
+        this.props.navigation.navigate('DoctorDetailPage',{ item: rowData} )
     }
 }
 

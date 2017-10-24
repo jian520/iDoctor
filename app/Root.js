@@ -10,6 +10,7 @@ import Colors from './common/Colors'
 import ClinicPage from './page/ClinicPage'
 import ClinicDetailPage from './page/ClinicDetailPage'
 import DoctorPage from './page/DoctorPage'
+import DoctorListPage from './page/DoctorListPage'
 import DoctorDetailPage from './page/DoctorDetailPage'
 import IndexPage from './page/index/IndexPage'
 import MyPage from './page/MyPage'
@@ -193,6 +194,10 @@ export const Nav = StackNavigator({
         },
         DoctorDetailPage: {
             screen: DoctorDetailPage,
+
+        },
+        DoctorListPage: {
+            screen: DoctorListPage,
 
         },
         LoginPage: {
