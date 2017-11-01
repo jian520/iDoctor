@@ -248,17 +248,6 @@ export default class IndexPage extends Component {
 
         this.props.navigation.navigate('ClinicDetailPage', {item: rowData})
 
-        // this.props.navigator.push({
-        //     title: '',
-        //     component: ClinicDetailPage,
-        //     params: {
-        //         item: rowData,
-        //         parentComponent: this,
-        //         ...this.props
-        //     },
-        // });
-
-
     }
 
     // 头部
