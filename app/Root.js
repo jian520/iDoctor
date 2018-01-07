@@ -5,7 +5,6 @@ import React, {PureComponent, PropTypes} from 'react';
 import {Button, View, ScrollView, StatusBar} from 'react-native';
 import {StackNavigator, TabNavigator, TabBarBottom} from 'react-navigation';
 
-// import Ionicons from 'react-native-vector-icons/Ionicons';
 import Colors from './common/Colors'
 import ClinicPage from './page/ClinicPage'
 import ClinicDetailPage from './page/ClinicDetailPage'

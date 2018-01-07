@@ -1,66 +1,66 @@
 [
     {
         "merged": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/res/merged/release/anim/fade_in.xml",
-        "source": "/Users/zhangjian/.android/build-cache/d7233cfcc116fefacac14718f8476fd2ca743364/output/res/anim/fade_in.xml"
+        "source": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.3/res/anim/fade_in.xml"
     },
     {
         "merged": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
-        "source": "/Users/zhangjian/.android/build-cache/d7233cfcc116fefacac14718f8476fd2ca743364/output/res/anim/catalyst_push_up_out.xml"
+        "source": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.3/res/anim/catalyst_push_up_out.xml"
     },
     {
         "merged": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/zhangjian/.android/build-cache/c29d3964205bbd17a4a92bfe4f0c60430d4906fe/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "source": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/res/merged/release/anim/slide_up.xml",
-        "source": "/Users/zhangjian/.android/build-cache/d7233cfcc116fefacac14718f8476fd2ca743364/output/res/anim/slide_up.xml"
+        "source": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.3/res/anim/slide_up.xml"
     },
     {
         "merged": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/zhangjian/.android/build-cache/c29d3964205bbd17a4a92bfe4f0c60430d4906fe/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "source": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
-        "source": "/Users/zhangjian/.android/build-cache/c29d3964205bbd17a4a92bfe4f0c60430d4906fe/output/res/anim/abc_popup_exit.xml"
+        "source": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/anim/abc_popup_exit.xml"
     },
     {
         "merged": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/zhangjian/.android/build-cache/c29d3964205bbd17a4a92bfe4f0c60430d4906fe/output/res/anim/abc_slide_out_bottom.xml"
+        "source": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/anim/abc_slide_out_bottom.xml"
     },
     {
         "merged": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
-        "source": "/Users/zhangjian/.android/build-cache/d7233cfcc116fefacac14718f8476fd2ca743364/output/res/anim/catalyst_push_up_in.xml"
+        "source": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.3/res/anim/catalyst_push_up_in.xml"
     },
     {
         "merged": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
-        "source": "/Users/zhangjian/.android/build-cache/c29d3964205bbd17a4a92bfe4f0c60430d4906fe/output/res/anim/abc_fade_out.xml"
+        "source": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/anim/abc_fade_out.xml"
     },
     {
         "merged": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/zhangjian/.android/build-cache/c29d3964205bbd17a4a92bfe4f0c60430d4906fe/output/res/anim/abc_slide_in_bottom.xml"
+        "source": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/anim/abc_slide_in_bottom.xml"
     },
     {
         "merged": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
-        "source": "/Users/zhangjian/.android/build-cache/c29d3964205bbd17a4a92bfe4f0c60430d4906fe/output/res/anim/abc_slide_out_top.xml"
+        "source": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/anim/abc_slide_out_top.xml"
     },
     {
         "merged": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/res/merged/release/anim/slide_down.xml",
-        "source": "/Users/zhangjian/.android/build-cache/d7233cfcc116fefacac14718f8476fd2ca743364/output/res/anim/slide_down.xml"
+        "source": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.3/res/anim/slide_down.xml"
     },
     {
         "merged": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
-        "source": "/Users/zhangjian/.android/build-cache/c29d3964205bbd17a4a92bfe4f0c60430d4906fe/output/res/anim/abc_fade_in.xml"
+        "source": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/anim/abc_fade_in.xml"
     },
     {
         "merged": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/res/merged/release/anim/fade_out.xml",
-        "source": "/Users/zhangjian/.android/build-cache/d7233cfcc116fefacac14718f8476fd2ca743364/output/res/anim/fade_out.xml"
+        "source": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.3/res/anim/fade_out.xml"
     },
     {
         "merged": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
-        "source": "/Users/zhangjian/.android/build-cache/c29d3964205bbd17a4a92bfe4f0c60430d4906fe/output/res/anim/abc_popup_enter.xml"
+        "source": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/anim/abc_popup_enter.xml"
     },
     {
         "merged": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
-        "source": "/Users/zhangjian/.android/build-cache/c29d3964205bbd17a4a92bfe4f0c60430d4906fe/output/res/anim/abc_slide_in_top.xml"
+        "source": "/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/anim/abc_slide_in_top.xml"
     }
 ]
