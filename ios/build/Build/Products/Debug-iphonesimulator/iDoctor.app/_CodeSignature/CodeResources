@@ -14,7 +14,23 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		ceJFOKdSJh7ZWKS6xBP6YRd+10E=
+		83Fj6+cBMjvGmLp5as79oSNAY24=
+		</data>
+		<key>Entypo.ttf</key>
+		<data>
+		R4cKZ91Qhxdl95nKqX2ochnuR8U=
+		</data>
+		<key>EvilIcons.ttf</key>
+		<data>
+		QZrcvnS7qREj2zspB3XjYvIS8+U=
+		</data>
+		<key>Feather.ttf</key>
+		<data>
+		VT41BPvwquY0jcO3k8YUn00lmRc=
+		</data>
+		<key>FontAwesome.ttf</key>
+		<data>
+		E7HqtlqYPHpzvHmXxHnWaUP3xss=
 		</data>
 		<key>Fonts/Entypo.ttf</key>
 		<data>
@@ -55,6 +71,10 @@
 		<key>Fonts/Zocial.ttf</key>
 		<data>
 		C9pZx7zT05J94EfgkYdaRCi/0as=
+		</data>
+		<key>Foundation.ttf</key>
+		<data>
+		SyvObHkkk6SlcWtv7C2+/olJLD8=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
@@ -99,7 +119,35 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		DdBX8Warfj2FkXqqgagV/u0Vrwo=
+		8KmtE+EmVpx/s6BUZMgho5tpjdU=
+		</data>
+		<key>Ionicons.ttf</key>
+		<data>
+		D3lWcE/mG0nEHqGiIFEkD3AKK0Q=
+		</data>
+		<key>LaunchImage-700-568h@2x.png</key>
+		<data>
+		i6UekirigB4H8Rh5T5yyZzo7xS8=
+		</data>
+		<key>LaunchImage-700@2x.png</key>
+		<data>
+		NOjlMUGlChL5mTGQdwmBSIibQnU=
+		</data>
+		<key>LaunchImage-800-Portrait-736h@3x.png</key>
+		<data>
+		VP8ovIeUks1WHaIgT7BkPy1PZxo=
+		</data>
+		<key>MaterialCommunityIcons.ttf</key>
+		<data>
+		iEMpKSoaB/KiSnpQryZBH+pXuYo=
+		</data>
+		<key>MaterialIcons.ttf</key>
+		<data>
+		/AXeMSNOAJD33cKM4bI69AJssdo=
+		</data>
+		<key>Octicons.ttf</key>
+		<data>
+		43wPh5FmspBv+00q8kJl9AIbRBc=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -124,6 +172,14 @@
 		<key>PlugIns/iDoctorTests.xctest/iDoctorTests</key>
 		<data>
 		d9Xt0/hVTL1LfX0Ba0hypcn+mtM=
+		</data>
+		<key>SimpleLineIcons.ttf</key>
+		<data>
+		n/uBpaEREuKS8swyPphIa61ZdZk=
+		</data>
+		<key>Zocial.ttf</key>
+		<data>
+		C9pZx7zT05J94EfgkYdaRCi/0as=
 		</data>
 		<key>assets/app/images/1.jpg</key>
 		<data>
@@ -278,11 +334,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ceJFOKdSJh7ZWKS6xBP6YRd+10E=
+			83Fj6+cBMjvGmLp5as79oSNAY24=
 			</data>
 			<key>hash2</key>
 			<data>
-			5doIRzf611noj2JnWq1H1gNGwSzYUvENLNnz3yJUQWE=
+			1qGt/ZbqZVoe96BZnR+jz3QpN3NSvUEhHpDQwkgHdOY=
+			</data>
+		</dict>
+		<key>Entypo.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			R4cKZ91Qhxdl95nKqX2ochnuR8U=
+			</data>
+			<key>hash2</key>
+			<data>
+			3QhJoVkfiNp5N7I/kiQYpc7FTgdeCePMyo/rYgFvqoI=
+			</data>
+		</dict>
+		<key>EvilIcons.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QZrcvnS7qREj2zspB3XjYvIS8+U=
+			</data>
+			<key>hash2</key>
+			<data>
+			J9GohnZmGjoiaVdpUtb3ANoFZEvAMFUR3iO3D3HKVDY=
+			</data>
+		</dict>
+		<key>Feather.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VT41BPvwquY0jcO3k8YUn00lmRc=
+			</data>
+			<key>hash2</key>
+			<data>
+			q+sHcPu8MtiSQYruRKCQSBn5LNTXnXkImDEnyIRSFfw=
+			</data>
+		</dict>
+		<key>FontAwesome.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			E7HqtlqYPHpzvHmXxHnWaUP3xss=
+			</data>
+			<key>hash2</key>
+			<data>
+			qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=
 			</data>
 		</dict>
 		<key>Fonts/Entypo.ttf</key>
@@ -395,6 +495,17 @@
 			17EKHr4YMOWi8I9JA7moDiwZEsDdL3O5P88r+DIhZgI=
 			</data>
 		</dict>
+		<key>Foundation.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SyvObHkkk6SlcWtv7C2+/olJLD8=
+			</data>
+			<key>hash2</key>
+			<data>
+			fh3QPdTOkLZYBSVUzXRZ3xZxZxc4mlUvpMbVal+JM+Y=
+			</data>
+		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<dict>
 			<key>hash</key>
@@ -496,6 +607,83 @@
 			psn3f9GzyAkXmzTU+vf5xjnZ5KNVLj89BwSJrmxGCqc=
 			</data>
 		</dict>
+		<key>Ionicons.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			D3lWcE/mG0nEHqGiIFEkD3AKK0Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			u0dnmwuuuEgbf1HGitM65aUmc2y1CxcXzGD/a2X5CKM=
+			</data>
+		</dict>
+		<key>LaunchImage-700-568h@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			i6UekirigB4H8Rh5T5yyZzo7xS8=
+			</data>
+			<key>hash2</key>
+			<data>
+			64dgnYLjKcPOFU2FKNq7eN3CQ+HmOAeICjcV4WjkVzw=
+			</data>
+		</dict>
+		<key>LaunchImage-700@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NOjlMUGlChL5mTGQdwmBSIibQnU=
+			</data>
+			<key>hash2</key>
+			<data>
+			41QrZy3UZK+Awj7XdUTDdBjixzz/CTEig4ePeAxqcc8=
+			</data>
+		</dict>
+		<key>LaunchImage-800-Portrait-736h@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VP8ovIeUks1WHaIgT7BkPy1PZxo=
+			</data>
+			<key>hash2</key>
+			<data>
+			5SaGHIABEYD1zTfkn7nONG16uqrX8Bar0oknt1iznkM=
+			</data>
+		</dict>
+		<key>MaterialCommunityIcons.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iEMpKSoaB/KiSnpQryZBH+pXuYo=
+			</data>
+			<key>hash2</key>
+			<data>
+			1bSKsbDzuZUQE0oDJhp+sgYYtyyRBwyCUcQIAoyRcm4=
+			</data>
+		</dict>
+		<key>MaterialIcons.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/AXeMSNOAJD33cKM4bI69AJssdo=
+			</data>
+			<key>hash2</key>
+			<data>
+			t/Sjq1YgSPKN0fppFgG8QzY6YdD4dtFtgxbFLk8y1pY=
+			</data>
+		</dict>
+		<key>Octicons.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			43wPh5FmspBv+00q8kJl9AIbRBc=
+			</data>
+			<key>hash2</key>
+			<data>
+			IDC914RgQrcm7e1pDO4UjqugvZKBAae3xLoaLztAPMg=
+			</data>
+		</dict>
 		<key>PlugIns/iDoctorTests.xctest.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
@@ -549,6 +737,28 @@
 			<key>hash2</key>
 			<data>
 			tPrrqTTsW5PyYEJJq8K7IytWowJOLSFjO6K9gVLCuSw=
+			</data>
+		</dict>
+		<key>SimpleLineIcons.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			n/uBpaEREuKS8swyPphIa61ZdZk=
+			</data>
+			<key>hash2</key>
+			<data>
+			P1Ad2wXHCCm7tRz+nKn/9X854GBFfCV7PM8l33Z/CHA=
+			</data>
+		</dict>
+		<key>Zocial.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			C9pZx7zT05J94EfgkYdaRCi/0as=
+			</data>
+			<key>hash2</key>
+			<data>
+			17EKHr4YMOWi8I9JA7moDiwZEsDdL3O5P88r+DIhZgI=
 			</data>
 		</dict>
 		<key>assets/app/images/1.jpg</key>

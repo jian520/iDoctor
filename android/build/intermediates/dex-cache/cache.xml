@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.android/build-cache/f8750278d644d0e2dd5a01563aaa6fbf665f7f1d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/classes_b34cb9b8ac73a9ef71056bf27be28ed878562f41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.android/build-cache/812ade80b98a883d61523b9e2e30cf5bce31af29/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/classes_cc074a1491c9587c3101029fd127a244af429886.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.android/build-cache/d7233cfcc116fefacac14718f8476fd2ca743364/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/infer-annotations-4.0_838275ffe782250c57c07fa7f04d4c1b5b4ff8e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.android/build-cache/fb2a64e4ec080c3d3c0065b1605f1e5070d930d6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/classes_0b54e1afa187bf64de541bbacb386c1ed61c6b0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.android/build-cache/e39eb4faf504816c0cefeb18625e9d71032e5a99/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/classes_0b131ef1a68731d12afcde1540310020c9b25900.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.android/build-cache/a682ee4ad4237b8c7fd4ac39981c6d4cf303f244/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/internal_impl-25.0.0_4a4bab824bec9b24049e96eb5135da21e5be0c89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.android/build-cache/d4ab16fe9c817307bb6aac1c5315d7912c551531/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/classes_b9fb0d3dbe2861a160903757f91c5845c02f48de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.android/build-cache/1119d08446a12c6a0a165ec1ccd85dd8019e3ace/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/internal_impl-25.0.0_7f2fc4c1ce7ae6a5cac034eb812ca401de92eacf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.android/build-cache/11b63e4bb81c2fafab05e0d36019e999c4144066/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/classes_c85875ea1509a4a2fe81821c1c678e32bec70d9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/support-annotations-25.0.0_3c5e5e002e665d1ecf782c4699bb3beb4d13a559.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.android/build-cache/d15927d4bba7dd37a382111146d6d6840e384ff5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/classes_8e407286abbc2b16fe97037da88e50d4e53d4a77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.android/build-cache/a2f3cb1fbce251390c91e37c04fde974ce2ea3f5/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/internal_impl-25.0.0_e04620644b29b37b67d4cdf3aab93c1017024b2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.android/build-cache/a682ee4ad4237b8c7fd4ac39981c6d4cf303f244/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/classes_1ca6bd0de27d2cad126c9985d203e035d8c6a3fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.6.0_35c48edc33f612530b9cccaf40089f13ba0f69e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.android/build-cache/5b9447303ab4d78c226eb520783f604e20760428/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/classes_b44a2283c92a4061111ffd6b6530723fdc3344f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.android/build-cache/fdf5d143128f70732395725e53d7b62e1796b648/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/classes_992caca0903fdac6fdd32dd35aa951e4540c8517.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.android/build-cache/1b9e4270ae6c5435e67e70ff3b8d1bdfc040c5d4/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/internal_impl-25.0.0_3c71dcf0de2e8d8dffed2b628df533efbfb0528a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/javax.inject-1_0176d2c47ba0b117a6075e4f77682913552a7c9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.android/build-cache/471c6a1fa0988a3260f9b789b1a72c2e6be377e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/classes_b85e71e3299550cb71c384fe51aecf00a3088379.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_b1aba5ac5fc3418e8ac9c238125ddce23756993a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.android/build-cache/1119d08446a12c6a0a165ec1ccd85dd8019e3ace/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/classes_58eca4b75d2b7a2d1cfb0bf17cb943c40c8b7e08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.android/build-cache/d7233cfcc116fefacac14718f8476fd2ca743364/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="56d3e81fee5f47a7a12ab65f4620f580c9c71d1e">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/classes_02515135b5e24bc5c23797eb7895f5da9aa43fe0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/okhttp-3.6.0_bff451bff6427ff9eeaca67fd2965d0a2e5bab0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/okio-1.13.0_7773455eaea4d42d3d8a5cf0d9bc3c6075a5b6f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.android/build-cache/1b9e4270ae6c5435e67e70ff3b8d1bdfc040c5d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/classes_aaed0944f932b326becac9af1f167341655d35a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.android/build-cache/a2f3cb1fbce251390c91e37c04fde974ce2ea3f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/classes_0b40d7011ec9ee52c5a30126342700890f312917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.android/build-cache/c29d3964205bbd17a4a92bfe4f0c60430d4906fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/classes_b40455ad34bf3608304ad1d7dc5b474e079061a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.android/build-cache/aed37fd590766d453a7647fbe9f7fece5acf0536/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/classes_102e68847f2bc60c6789f4b8c79c994192bccbb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_a1a2360f1f54b7e44a4cc5b2148abce548c739a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.android/build-cache/fdf5d143128f70732395725e53d7b62e1796b648/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/internal_impl-25.0.0_6033c41a600c96f38323f64eeb0521a2c63c1839.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.android/build-cache/a753a97935ef9be2eec87bdd912bec82ff9c846c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/classes_a77adc3a836cd8d443349a3e94894763f24dd2fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhangjian/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/pre-dexed/release/staticlayout-proxy-1.0_be6c5b06bea1df965350ed231a3bea6d4a5fc920.jar" />
+    </item>
+
+</items>

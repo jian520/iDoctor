@@ -3,10 +3,11 @@ package com.medi;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
-import com.yunpeng.alipay.AlipayPackage;
-import com.oblador.vectoricons.VectorIconsPackage;
-import com.cboy.rn.splashscreen.SplashScreenReactPackage;
-import com.RNFetchBlob.RNFetchBlobPackage;
+//import com.react.rnspinkit.RNSpinkitPackage;
+//import com.yunpeng.alipay.AlipayPackage;
+//import com.oblador.vectoricons.VectorIconsPackage;
+//import com.cboy.rn.splashscreen.SplashScreenReactPackage;
+//import com.RNFetchBlob.RNFetchBlobPackage;
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.react.shell.MainReactPackage;
@@ -32,11 +33,12 @@ public class MainApplication extends Application implements ReactApplication {
     @Override
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
-          new MainReactPackage(),
-            new AlipayPackage(),
-            new VectorIconsPackage(),
-            new SplashScreenReactPackage(),
-            new RNFetchBlobPackage()
+          new MainReactPackage()
+         //   new RNSpinkitPackage(),
+          //  new AlipayPackage(),
+          //  new VectorIconsPackage(),
+          //  new SplashScreenReactPackage(),
+           // new RNFetchBlobPackage()
       );
     }
   };

@@ -1,12 +1,10 @@
 package com.medi;
 
 import android.os.Bundle;
-import com.cboy.rn.splashscreen.SplashScreen;
+//import com.cboy.rn.splashscreen.SplashScreen;
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactPackage;
 
-import com.yunpeng.alipay.AlipayPackage;
-//import com.microsoft.codepush.react.CodePush;
 
 public class MainActivity extends ReactActivity {
 
@@ -20,7 +18,7 @@ public class MainActivity extends ReactActivity {
     }
      @Override
         protected void onCreate(Bundle savedInstanceState) {
-            SplashScreen.show(this,true);
+         //   SplashScreen.show(this,true);
             super.onCreate(savedInstanceState);
         }
 //

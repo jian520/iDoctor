@@ -25,7 +25,7 @@ import ViewUtils from '../utils/ViewUtils'
 import LoginPage from './LoginPage'
 import MPColor from '../common/Colors'
 
-import AlipayModule from 'react-native-yunpeng-alipay'
+// import AlipayModule from 'react-native-yunpeng-alipay'
 
 import {connect} from 'react-redux';
 
@@ -73,13 +73,13 @@ class MyPage extends Component {
 
             case 'Alipay':
 
-                let payInfo ="body=\"商品订单支付\"&total_fee=\"1.6\"&seller_id=\"zhongkefuchuang@126.com\"&notify_url=\"http%3A%2F%2Fweb.jinlb.cn%2Feten%2Fapp%2Fcharge%2Falipay%2Fnotify\"&out_trade_no=\"PO2016081100000014\"&service=\"mobile.securitypay.pay\"&payment_type=\"1\"&partner=\"2088211510687520\"&_input_charset=\"utf-8\"&subject=\"商品订单\"&sign=\"qMTEJRy%2FX3UpevA2b2mzdjLi8QSEp%2F69jpIT46vkOziWXDllEHXBUMqrJXdoAdiS2COodhXkMMwKrEy8FhK2XSQF6fFGsOkcS3duwPuHxsLcq5Q5JqsztWovIekPDvM8e9Yi%2BMzPethaxMQCJluiMuBvU9KBrK%2FlBUq20s2Pa5k%3D\"&sign_type=\"RSA\""
-
-                AlipayModule.pay(payInfo).then(function(data){
-                    console.log(data);
-                }, function (err) {
-                    console.log(err);
-                });
+                // let payInfo ="body=\"商品订单支付\"&total_fee=\"1.6\"&seller_id=\"zhongkefuchuang@126.com\"&notify_url=\"http%3A%2F%2Fweb.jinlb.cn%2Feten%2Fapp%2Fcharge%2Falipay%2Fnotify\"&out_trade_no=\"PO2016081100000014\"&service=\"mobile.securitypay.pay\"&payment_type=\"1\"&partner=\"2088211510687520\"&_input_charset=\"utf-8\"&subject=\"商品订单\"&sign=\"qMTEJRy%2FX3UpevA2b2mzdjLi8QSEp%2F69jpIT46vkOziWXDllEHXBUMqrJXdoAdiS2COodhXkMMwKrEy8FhK2XSQF6fFGsOkcS3duwPuHxsLcq5Q5JqsztWovIekPDvM8e9Yi%2BMzPethaxMQCJluiMuBvU9KBrK%2FlBUq20s2Pa5k%3D\"&sign_type=\"RSA\""
+                //
+                // AlipayModule.pay(payInfo).then(function(data){
+                //     console.log(data);
+                // }, function (err) {
+                //     console.log(err);
+                // });
                 break;
             case 'Logout':
                 Alert.alert(
