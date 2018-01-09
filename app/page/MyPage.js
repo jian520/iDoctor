@@ -17,20 +17,21 @@ import {
     InteractionManager
 } from 'react-native';
 
-import NavigationBar from "../widget/NavigationBar";
-
-import {MORE_MENU} from "../common/MoreMenu";
 import GlobalStyles from '../constants/GlobalStyles'
 import ViewUtils from '../utils/ViewUtils'
 import LoginPage from './LoginPage'
 import MPColor from '../common/Colors'
 
-// import AlipayModule from 'react-native-yunpeng-alipay'
 
 import {connect} from 'react-redux';
 
 import {userLogout} from '../actions/userActions';
-class MyPage extends Component {
+
+
+// import AlipayModule from 'react-native-yunpeng-alipay'
+
+
+export default class MyPage extends Component {
 
     // static navigationOptions = ({ navigation }) => ({
     //     title: '我',
@@ -104,12 +105,6 @@ class MyPage extends Component {
             case 'Login':
                 this.props.navigation.navigate('LoginPage')
 
-                //
-                //
-                // this.props.navigator.push({
-                //                  component: LoginPage,
-                //                  params: params,
-                //          });
                 break;
 
 
@@ -140,14 +135,6 @@ class MyPage extends Component {
         const {userReducer} = this.props;
         const user = userReducer.user;
 
-        let navigationBar =
-            <NavigationBar
-                title='我'
-                style={{backgroundColor:MPColor.mainColor}}
-                //      rightButton={this.renderMoreButton()}
-                statusBar={{backgroundColor: MPColor.mainColor}}
-                //    titleView={this.renderTitleView()}
-            />
 
 
         return (
@@ -185,9 +172,3 @@ class MyPage extends Component {
     }
 }
 
-export default connect((state) => {
-    const { userReducer } = state;
-    return {
-        userReducer
-    }
-})(MyPage);

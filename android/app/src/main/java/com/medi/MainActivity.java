@@ -14,11 +14,11 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "MEDI";
+        return "iDoctor";
     }
      @Override
         protected void onCreate(Bundle savedInstanceState) {
-         //   SplashScreen.show(this,true);
+//            SplashScreen.show(this,true);
             super.onCreate(savedInstanceState);
         }
 //

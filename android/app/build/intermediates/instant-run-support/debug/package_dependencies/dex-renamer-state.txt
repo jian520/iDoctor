@@ -1,0 +1,4 @@
+#Mon Jan 08 22:05:51 CST 2018
+base.0=/Users/zhangjian/Desktop/iDoctor/android/app/build/intermediates/transforms/dexMerger/debug/30
+path.0=classes.dex
+renamed.0=classes.dex

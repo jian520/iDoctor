@@ -4,25 +4,29 @@ ADDED from /Users/zhangjian/Desktop/iDoctor/android/app/src/main/AndroidManifest
 INJECTED from /Users/zhangjian/Desktop/iDoctor/android/app/src/main/AndroidManifest.xml:1:1-48:12
 INJECTED from /Users/zhangjian/Desktop/iDoctor/android/app/src/main/AndroidManifest.xml:1:1-48:12
 INJECTED from /Users/zhangjian/Desktop/iDoctor/android/app/src/main/AndroidManifest.xml:1:1-48:12
-MERGED from [com.facebook.react:react-native:0.48.3] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/react-native-0.48.3.aar/7ce79809d161672e59ea3deb645ca019/AndroidManifest.xml:2:1-15:12
-MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/a55e3679f88ded47f6e3a5e10a489697/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-v4:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/a78671a4e45eb9450bd5e835a549d35b/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.0.aar/9f15365b96d09536f79402825107671b/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.0.aar/869f7e7092a47fe60bb962e35eed26cb/AndroidManifest.xml:17:1-25:12
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/9c3b31c5a24c5e23db3e32d1b1e02ab5/AndroidManifest.xml:10:1-18:12
-MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/02e738168a09751b918b70ea46abc792/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/4e5125c99b1e2628e5e83ad0b234891f/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c87a327c30d2f0408bad65d9f2f09b53/AndroidManifest.xml:1:1-4:12
-MERGED from [org.webkit:android-jsc:r174650] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/d0dcd9d7576c809f5840665fc376cb89/AndroidManifest.xml:1:1-3:12
-MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/2481ee098c7e64e033cd26f1f68a62b4/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/6e9246ace7555f7f696981463e42e61d/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/d89aef296a4467d39900148682d1f5ad/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/c24695db7e14df1f1ccfac476835ae02/AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-fragment:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.0.aar/bf2f067c27fadc3d415c893563d819d7/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-media-compat:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/7259c5e80efec4c9004391fc57db1415/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-utils:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.0.aar/16130d91249a4f3ac86a1eb4ca6842ae/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-ui:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.0.aar/599ba31d0bad94f083f8f1c69df8b21e/AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-compat:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.0.aar/f16738277c87bce740589e8613859c4a/AndroidManifest.xml:17:1-27:12
+MERGED from [:react-native-spinkit] /Users/zhangjian/Desktop/iDoctor/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-16:12
+MERGED from [:react-native-vector-icons] /Users/zhangjian/Desktop/iDoctor/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-splash-screen] /Users/zhangjian/Desktop/iDoctor/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [com.facebook.react:react-native:0.48.3] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/react-native-0.48.3.aar/88cdcc8c516f7b83f9a8ab61e49a76a8/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/b5cba50de30e886d8751d4a10a07ee21/AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.1.0.aar/6cf5a426e934607c23dd3c8d0d656d43/AndroidManifest.xml:2:1-10:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/d9fa02dec4b9f73e9a48108c8d9caa62/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/e0b0111b54a33c292ba45789cda3fad6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/212d2ed2ab8e196214ef6a776f353091/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/8d02fab658832bf03708caea7395c675/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/598053cde5911e790d5313e8b1332983/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/eaa1e03e2ebe29da52c26b75f822e4fb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/b484f8cb63de0d1b2b477e41b3221523/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/c9b84a0191d34d7d36781bed54d21ede/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/ca828657f0555bbdcc85eee5fdc1941f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/2cbc1f97ed16bbcce64f16814e32eb25/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.0.aar/c01a710c50def95be2f24f82708d8dfa/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.0.aar/cfe3c32d2cc02c742a934f97e6468616/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.0.aar/ba5d23ab7bc8be15cfde4a870bfe980b/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/d99f4afb59895823c0d0861106e31e4f/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.0.aar/4593bf4720cf2af055c18834c16f7163/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.0.aar/d8f91e080bbf49e2ffe933138c1f4e35/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.0.aar/1e982f1bf56991de8df6ba84d7d70a1a/AndroidManifest.xml:17:1-27:12
 INJECTED from /Users/zhangjian/Desktop/iDoctor/android/app/src/main/AndroidManifest.xml:1:1-48:12
 INJECTED from /Users/zhangjian/Desktop/iDoctor/android/app/src/main/AndroidManifest.xml:1:1-48:12
 INJECTED from /Users/zhangjian/Desktop/iDoctor/android/app/src/main/AndroidManifest.xml:1:1-48:12
@@ -46,8 +50,8 @@ ADDED from /Users/zhangjian/Desktop/iDoctor/android/app/src/main/AndroidManifest
 		ADDED from /Users/zhangjian/Desktop/iDoctor/android/app/src/main/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /Users/zhangjian/Desktop/iDoctor/android/app/src/main/AndroidManifest.xml:7:5-77
-MERGED from [com.facebook.react:react-native:0.48.3] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/react-native-0.48.3.aar/7ce79809d161672e59ea3deb645ca019/AndroidManifest.xml:11:5-78
-MERGED from [com.facebook.react:react-native:0.48.3] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/react-native-0.48.3.aar/7ce79809d161672e59ea3deb645ca019/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.48.3] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/react-native-0.48.3.aar/88cdcc8c516f7b83f9a8ab61e49a76a8/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.48.3] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/react-native-0.48.3.aar/88cdcc8c516f7b83f9a8ab61e49a76a8/AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from /Users/zhangjian/Desktop/iDoctor/android/app/src/main/AndroidManifest.xml:7:22-75
 uses-permission#android.permission.ACCESS_NETWORK_STATE
@@ -70,46 +74,54 @@ uses-sdk
 ADDED from /Users/zhangjian/Desktop/iDoctor/android/app/src/main/AndroidManifest.xml:13:5-15:44
 INJECTED from /Users/zhangjian/Desktop/iDoctor/android/app/src/main/AndroidManifest.xml:13:5-15:44
 INJECTED from /Users/zhangjian/Desktop/iDoctor/android/app/src/main/AndroidManifest.xml:13:5-15:44
-MERGED from [com.facebook.react:react-native:0.48.3] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/react-native-0.48.3.aar/7ce79809d161672e59ea3deb645ca019/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.48.3] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/react-native-0.48.3.aar/7ce79809d161672e59ea3deb645ca019/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/a55e3679f88ded47f6e3a5e10a489697/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/a55e3679f88ded47f6e3a5e10a489697/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/a78671a4e45eb9450bd5e835a549d35b/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/a78671a4e45eb9450bd5e835a549d35b/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.0.aar/9f15365b96d09536f79402825107671b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.0.aar/9f15365b96d09536f79402825107671b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.0.aar/869f7e7092a47fe60bb962e35eed26cb/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.0.aar/869f7e7092a47fe60bb962e35eed26cb/AndroidManifest.xml:21:5-43
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/9c3b31c5a24c5e23db3e32d1b1e02ab5/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/9c3b31c5a24c5e23db3e32d1b1e02ab5/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/02e738168a09751b918b70ea46abc792/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/02e738168a09751b918b70ea46abc792/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/4e5125c99b1e2628e5e83ad0b234891f/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/4e5125c99b1e2628e5e83ad0b234891f/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c87a327c30d2f0408bad65d9f2f09b53/AndroidManifest.xml:2:3-70
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c87a327c30d2f0408bad65d9f2f09b53/AndroidManifest.xml:2:3-70
-MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/2481ee098c7e64e033cd26f1f68a62b4/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/2481ee098c7e64e033cd26f1f68a62b4/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/6e9246ace7555f7f696981463e42e61d/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/6e9246ace7555f7f696981463e42e61d/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/d89aef296a4467d39900148682d1f5ad/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/d89aef296a4467d39900148682d1f5ad/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/c24695db7e14df1f1ccfac476835ae02/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/c24695db7e14df1f1ccfac476835ae02/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-fragment:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.0.aar/bf2f067c27fadc3d415c893563d819d7/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.0.aar/bf2f067c27fadc3d415c893563d819d7/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/7259c5e80efec4c9004391fc57db1415/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/7259c5e80efec4c9004391fc57db1415/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.0.aar/16130d91249a4f3ac86a1eb4ca6842ae/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.0.aar/16130d91249a4f3ac86a1eb4ca6842ae/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.0.aar/599ba31d0bad94f083f8f1c69df8b21e/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.0.aar/599ba31d0bad94f083f8f1c69df8b21e/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.0.aar/f16738277c87bce740589e8613859c4a/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.0.aar/f16738277c87bce740589e8613859c4a/AndroidManifest.xml:21:5-23:58
+MERGED from [:react-native-spinkit] /Users/zhangjian/Desktop/iDoctor/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-spinkit] /Users/zhangjian/Desktop/iDoctor/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/zhangjian/Desktop/iDoctor/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/zhangjian/Desktop/iDoctor/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/zhangjian/Desktop/iDoctor/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/zhangjian/Desktop/iDoctor/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.48.3] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/react-native-0.48.3.aar/88cdcc8c516f7b83f9a8ab61e49a76a8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.48.3] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/react-native-0.48.3.aar/88cdcc8c516f7b83f9a8ab61e49a76a8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/b5cba50de30e886d8751d4a10a07ee21/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/b5cba50de30e886d8751d4a10a07ee21/AndroidManifest.xml:21:5-23:78
+MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.1.0.aar/6cf5a426e934607c23dd3c8d0d656d43/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.ybq:Android-SpinKit:1.1.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/Android-SpinKit-1.1.0.aar/6cf5a426e934607c23dd3c8d0d656d43/AndroidManifest.xml:6:5-8:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/d9fa02dec4b9f73e9a48108c8d9caa62/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/d9fa02dec4b9f73e9a48108c8d9caa62/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/e0b0111b54a33c292ba45789cda3fad6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/e0b0111b54a33c292ba45789cda3fad6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/212d2ed2ab8e196214ef6a776f353091/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/212d2ed2ab8e196214ef6a776f353091/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/8d02fab658832bf03708caea7395c675/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/8d02fab658832bf03708caea7395c675/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/eaa1e03e2ebe29da52c26b75f822e4fb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/eaa1e03e2ebe29da52c26b75f822e4fb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/b484f8cb63de0d1b2b477e41b3221523/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/b484f8cb63de0d1b2b477e41b3221523/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/c9b84a0191d34d7d36781bed54d21ede/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/c9b84a0191d34d7d36781bed54d21ede/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/ca828657f0555bbdcc85eee5fdc1941f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/ca828657f0555bbdcc85eee5fdc1941f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/2cbc1f97ed16bbcce64f16814e32eb25/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/2cbc1f97ed16bbcce64f16814e32eb25/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.0.aar/c01a710c50def95be2f24f82708d8dfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.0.aar/c01a710c50def95be2f24f82708d8dfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.0.aar/cfe3c32d2cc02c742a934f97e6468616/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.0.aar/cfe3c32d2cc02c742a934f97e6468616/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.0.aar/ba5d23ab7bc8be15cfde4a870bfe980b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.0.aar/ba5d23ab7bc8be15cfde4a870bfe980b/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/d99f4afb59895823c0d0861106e31e4f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/d99f4afb59895823c0d0861106e31e4f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.0.aar/4593bf4720cf2af055c18834c16f7163/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.0.aar/4593bf4720cf2af055c18834c16f7163/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.0.aar/d8f91e080bbf49e2ffe933138c1f4e35/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.0.aar/d8f91e080bbf49e2ffe933138c1f4e35/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.0.aar/1e982f1bf56991de8df6ba84d7d70a1a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.0.aar/1e982f1bf56991de8df6ba84d7d70a1a/AndroidManifest.xml:21:5-23:58
 INJECTED from /Users/zhangjian/Desktop/iDoctor/android/app/src/main/AndroidManifest.xml:13:5-15:44
 INJECTED from /Users/zhangjian/Desktop/iDoctor/android/app/src/main/AndroidManifest.xml:13:5-15:44
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/a55e3679f88ded47f6e3a5e10a489697/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/b5cba50de30e886d8751d4a10a07ee21/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		ADDED from /Users/zhangjian/Desktop/iDoctor/android/app/src/main/AndroidManifest.xml:15:13-42
 		INJECTED from /Users/zhangjian/Desktop/iDoctor/android/app/src/main/AndroidManifest.xml
@@ -120,30 +132,36 @@ INJECTED from /Users/zhangjian/Desktop/iDoctor/android/app/src/main/AndroidManif
 		INJECTED from /Users/zhangjian/Desktop/iDoctor/android/app/src/main/AndroidManifest.xml
 application
 ADDED from /Users/zhangjian/Desktop/iDoctor/android/app/src/main/AndroidManifest.xml:17:5-46:19
-MERGED from [com.facebook.react:react-native:0.48.3] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/react-native-0.48.3.aar/7ce79809d161672e59ea3deb645ca019/AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.react:react-native:0.48.3] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/react-native-0.48.3.aar/7ce79809d161672e59ea3deb645ca019/AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/a55e3679f88ded47f6e3a5e10a489697/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/a55e3679f88ded47f6e3a5e10a489697/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/a78671a4e45eb9450bd5e835a549d35b/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/a78671a4e45eb9450bd5e835a549d35b/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.0.aar/9f15365b96d09536f79402825107671b/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.0.aar/9f15365b96d09536f79402825107671b/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.0.aar/869f7e7092a47fe60bb962e35eed26cb/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.0.aar/869f7e7092a47fe60bb962e35eed26cb/AndroidManifest.xml:23:5-20
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c87a327c30d2f0408bad65d9f2f09b53/AndroidManifest.xml:3:3-17
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/c87a327c30d2f0408bad65d9f2f09b53/AndroidManifest.xml:3:3-17
-MERGED from [org.webkit:android-jsc:r174650] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/d0dcd9d7576c809f5840665fc376cb89/AndroidManifest.xml:2:3-17
-MERGED from [org.webkit:android-jsc:r174650] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/d0dcd9d7576c809f5840665fc376cb89/AndroidManifest.xml:2:3-17
-MERGED from [com.android.support:support-fragment:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.0.aar/bf2f067c27fadc3d415c893563d819d7/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.0.aar/bf2f067c27fadc3d415c893563d819d7/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/7259c5e80efec4c9004391fc57db1415/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/7259c5e80efec4c9004391fc57db1415/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.0.aar/16130d91249a4f3ac86a1eb4ca6842ae/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.0.aar/16130d91249a4f3ac86a1eb4ca6842ae/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.0.aar/599ba31d0bad94f083f8f1c69df8b21e/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.0.aar/599ba31d0bad94f083f8f1c69df8b21e/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.0.aar/f16738277c87bce740589e8613859c4a/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.0.aar/f16738277c87bce740589e8613859c4a/AndroidManifest.xml:25:5-20
+MERGED from [:react-native-spinkit] /Users/zhangjian/Desktop/iDoctor/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-14:19
+MERGED from [:react-native-spinkit] /Users/zhangjian/Desktop/iDoctor/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-14:19
+MERGED from [:react-native-splash-screen] /Users/zhangjian/Desktop/iDoctor/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:react-native-splash-screen] /Users/zhangjian/Desktop/iDoctor/node_modules/react-native-splash-screen/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.react:react-native:0.48.3] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/react-native-0.48.3.aar/88cdcc8c516f7b83f9a8ab61e49a76a8/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.48.3] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/react-native-0.48.3.aar/88cdcc8c516f7b83f9a8ab61e49a76a8/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/b5cba50de30e886d8751d4a10a07ee21/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.0.aar/b5cba50de30e886d8751d4a10a07ee21/AndroidManifest.xml:25:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/8d02fab658832bf03708caea7395c675/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/8d02fab658832bf03708caea7395c675/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/598053cde5911e790d5313e8b1332983/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/598053cde5911e790d5313e8b1332983/AndroidManifest.xml:2:3-17
+MERGED from [com.android.support:support-v4:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/2cbc1f97ed16bbcce64f16814e32eb25/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.0.aar/2cbc1f97ed16bbcce64f16814e32eb25/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.0.aar/c01a710c50def95be2f24f82708d8dfa/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.0.aar/c01a710c50def95be2f24f82708d8dfa/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.0.aar/cfe3c32d2cc02c742a934f97e6468616/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.0.aar/cfe3c32d2cc02c742a934f97e6468616/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.0.aar/ba5d23ab7bc8be15cfde4a870bfe980b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.0.aar/ba5d23ab7bc8be15cfde4a870bfe980b/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/d99f4afb59895823c0d0861106e31e4f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.0.aar/d99f4afb59895823c0d0861106e31e4f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.0.aar/4593bf4720cf2af055c18834c16f7163/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.0.aar/4593bf4720cf2af055c18834c16f7163/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.0.aar/d8f91e080bbf49e2ffe933138c1f4e35/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.0.aar/d8f91e080bbf49e2ffe933138c1f4e35/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.0.aar/1e982f1bf56991de8df6ba84d7d70a1a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] /Users/zhangjian/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.0.aar/1e982f1bf56991de8df6ba84d7d70a1a/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from [:react-native-spinkit] /Users/zhangjian/Desktop/iDoctor/node_modules/react-native-spinkit/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-35
 	android:label
 		ADDED from /Users/zhangjian/Desktop/iDoctor/android/app/src/main/AndroidManifest.xml:20:13-45
 	android:icon
