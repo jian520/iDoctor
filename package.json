@@ -1,53 +1,53 @@
 {
-	"name": "iDoctor",
-	"version": "0.0.1",
-	"private": true,
-	"scripts": {
-		"start": "node node_modules/react-native/local-cli/cli.js start",
-		"test": "jest"
-	},
-	"dependencies": {
-		"apsl-react-native-button": "^3.0.2",
-		"lodash": "^4.17.4",
-		"react": "16.0.0-alpha.12",
-		"react-native": "0.48.3",
-		"react-native-app-intro": "^1.1.5",
-		"react-native-buttons": "0.0.4",
-		"react-native-deprecated-custom-components": "^0.1.0",
-		"react-native-dropdown-menu": "^1.1.0",
-		"react-native-easy-toast": "^1.0.6",
-		"react-native-elements": "^0.13.0",
-		"react-native-gifted-form": "0.0.15",
-		"react-native-gifted-listview": "0.0.15",
-		"react-native-htmlview": "^0.9.0",
-		"react-native-keyboard-aware-scroll-view": "^0.2.9",
-		"react-native-modalbox": "^1.3.9",
-		"react-native-navbar": "^1.7.1",
-		"react-native-parallax-scroll-view": "^0.19.0",
-		"react-native-progress-hud": "^1.0.4",
-		"react-native-scrollable-tab-view": "^0.6.6",
-		"react-native-sglistview": "^0.4.3",
-		"react-native-spinkit": "^1.1.1",
-		"react-native-splash-screen": "^3.0.6",
-		"react-native-swiper": "^1.5.4",
-		"react-native-tab-navigator": "^0.3.3",
-		"react-native-textinput-effects": "^0.3.1",
-		"react-native-vector-icons": "^4.4.0",
-		"react-navigation": "^1.0.0-beta.11",
-		"react-redux": "^5.0.5",
-		"react-timer-mixin": "^0.13.3",
-		"redux": "^3.7.0",
-		"redux-logger": "^3.0.6",
-		"redux-persist": "^4.8.0",
-		"redux-thunk": "^2.2.0"
-	},
-	"devDependencies": {
-		"babel-jest": "21.2.0",
-		"babel-preset-react-native": "4.0.0",
-		"jest": "21.2.1",
-		"react-test-renderer": "16.0.0-alpha.12"
-	},
-	"jest": {
-		"preset": "react-native"
-	}
+		"name": "iDoctor",
+		"version": "0.0.1",
+		"private": true,
+		"scripts": {
+				"start": "node node_modules/react-native/local-cli/cli.js start",
+				"test": "jest"
+		},
+		"dependencies": {
+				"apsl-react-native-button": "^3.0.2",
+				"lodash": "^4.17.4",
+				"react": "16.2.0",
+				"react-native": "0.52.0",
+				"react-native-app-intro": "^1.1.5",
+				"react-native-buttons": "0.0.4",
+				"react-native-deprecated-custom-components": "^0.1.0",
+				"react-native-dropdown-menu": "^1.1.0",
+				"react-native-easy-toast": "^1.0.6",
+				"react-native-elements": "^0.13.0",
+				"react-native-gifted-form": "0.0.15",
+				"react-native-gifted-listview": "0.0.15",
+				"react-native-htmlview": "^0.9.0",
+				"react-native-keyboard-aware-scroll-view": "^0.2.9",
+				"react-native-modalbox": "^1.3.9",
+				"react-native-navbar": "^1.7.1",
+				"react-native-parallax-scroll-view": "^0.19.0",
+				"react-native-progress-hud": "^1.0.4",
+				"react-native-scrollable-tab-view": "^0.6.6",
+				"react-native-sglistview": "^0.4.3",
+				"react-native-spinkit": "^1.1.1",
+				"react-native-splash-screen": "^3.0.6",
+				"react-native-swiper": "^1.5.4",
+				"react-native-tab-navigator": "^0.3.3",
+				"react-native-textinput-effects": "^0.3.1",
+				"react-native-vector-icons": "^4.4.0",
+				"react-navigation": "^1.0.0-beta.11",
+				"react-redux": "^5.0.5",
+				"react-timer-mixin": "^0.13.3",
+				"redux": "^3.7.0",
+				"redux-logger": "^3.0.6",
+				"redux-persist": "^4.8.0",
+				"redux-thunk": "^2.2.0"
+		},
+		"devDependencies": {
+				"babel-jest": "22.0.6",
+				"babel-preset-react-native": "4.0.0",
+				"jest": "22.0.6",
+				"react-test-renderer": "16.2.0"
+		},
+		"jest": {
+				"preset": "react-native"
+		}
 }

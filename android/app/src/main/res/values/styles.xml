@@ -3,12 +3,6 @@
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
-
-        <!-- 这里将刚刚那张图片设置为背景图片， splash对应图片名称 -->
-        <!--<item name="android:windowBackground">@drawable/ad1</item>-->
-        <!--设置透明背景-->
-        <item name="android:windowIsTranslucent">true</item>
-        <item name="android:windowFullscreen">true</item>
     </style>
 
 </resources>
